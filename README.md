@@ -18,18 +18,18 @@ Follow these steps to set up and run the project on your local machine:
    ```shell
    java BankingApp
 
-# 📂 Project Structure
+#  Project Structure
 - 'src/': Contains the Java source code files.
 - 'database/': Includes SQL scripts for database setup.
 
-# 📦 Features
+#  Features
 - User Registration & Login
 - Account Creation
 - Debit and Credit Transactions
 - Money Transfer Between Accounts
 - Balance Inquiry
 
-# 🌐 Technologies Used
+#  Technologies Used
 - Java
 - JDBC (Java Database Connectivity)
 - MySQL Database
