@@ -24,7 +24,8 @@ public class BankingApp {
             long account_number;
 
             while(true){
-                System.out.println("*** WELCOME TO BANKING SYSTEM ***");
+                System.out.println();
+                System.out.println(" WELCOME TO BANKING SYSTEM ");
                 System.out.println();
                 System.out.println("1. Register");
                 System.out.println("2. Login");
@@ -90,6 +91,7 @@ public class BankingApp {
                             System.out.println("Incorrect Email or Password!");
                         }
                     case 3:
+                        System.out.println();
                         System.out.println("THANK YOU FOR USING BANKING SYSTEM!!!");
                         System.out.println("Exiting System!");
                         return;
